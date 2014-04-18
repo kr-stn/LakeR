@@ -20,4 +20,4 @@ There are two main processing chains that can be achieved with these scripts.
 
 Data:
 Ideally each Landsat scene is in its own subfolder and each band is represented as a single GeoTiff
-(exactly like Landsat data is provided by the USGS).
+(exactly as Landsat data is provided by the USGS).
