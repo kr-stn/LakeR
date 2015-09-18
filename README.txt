@@ -7,7 +7,7 @@ twitter.com/Fernerkundung
 
 
 Motivation:
-This collection of scripts was developed as a proof of concept for processing large Landsat data sets with R
+This collection of scripts was developed as a proof of concept during a university course for processing large Landsat data sets with R
 and automatically detect lakes. The goal is to create a large amount of binary lake masks so one can evaluate
 lake growth and lake distribution with minimal investment of time and money.
 
