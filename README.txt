@@ -3,7 +3,7 @@ Kersten Clauss
 
 Contact:
 kersten.clauss@gmail.com
-twitter.com/Naturgefahr
+twitter.com/Fernerkundung
 
 
 Motivation:
