@@ -11,11 +11,6 @@ There are two main processing chains that can be achieved with these scripts.
 Ideally each Landsat scene is in its own subfolder and each band is represented as a single GeoTiff
 (exactly as Landsat data is provided by the USGS).
 
-### Author
-Kersten Clauss
 
-kersten.clauss@gmail.com
-
-twitter.com/Fernerkundung
 
 This was a course project during the course *Remote Sensing with R* at the *University of Erlangen-Nuernberg*.
