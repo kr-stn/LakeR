@@ -1,3 +1,5 @@
+**Disclaimer: This repository was part of a university project in 2012. Scripts and expected data formats are likely outdated. Use at your own risk.**
+
 This collection of scripts was developed as a proof of concept during a university course for processing large Landsat data sets with R and automatically detect lakes. The goal is to automatically create binary lake masks so one can evaluate
 lake growth and lake distribution with minimal investment of time and money.
 
